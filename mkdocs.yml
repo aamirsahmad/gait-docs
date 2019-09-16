@@ -1,0 +1,8 @@
+site_name: Gait Identification and Analysis
+nav:
+    - Home: index.md
+theme:
+  name: 'material'
+  palette:
+    primary: 'blue'
+    accent: 'blue'
